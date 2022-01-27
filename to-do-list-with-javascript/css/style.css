@@ -1,0 +1,13 @@
+.text-navbar {
+    font-family: 'M PLUS Code Latin', sans-serif;
+    color: black;
+}
+.style-container {
+    background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+}
+.style-input {
+    width: 600px;
+}
+.height-container {
+    height: 500px;
+}
