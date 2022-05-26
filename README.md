@@ -21,7 +21,8 @@ There are detailed readme files in each project.
 
 ### To do list !
 ```
-to do list ; It is an idea developed to not forget and record the tasks that we feel responsible for doing daily.
+to do list ; It is an idea developed to not forget and 
+record the tasks that we feel responsible for doing daily.
 
 It is a simple web project developed for repetition of learned skills.
 ```
@@ -32,6 +33,13 @@ It is a simple web project developed for repetition of learned skills.
 It is a simple algorithm written in javascript to calculate college grades
 ```
 [go to the average calculator project !](https://github.com/volkantepeli/learning-projects-for-javascript/tree/master/average-calculation-with-js)
+
+### New To do list !
+```
+To apply the concept of local storage, which is often used in web projects.
+Make clean code work.
+```
+[go to new to-do list project !](https://github.com/volkantepeli/learning-projects-for-javascript/tree/master/new-to-do-list-app-with-javascript)
 
 ## To access projects;
 ```
